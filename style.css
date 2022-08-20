@@ -1,0 +1,47 @@
+
+body {
+  background: lightgreen;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+#activity {
+  color: red;
+  margin-top: 30px;
+  /* font-weight: bold; */
+}
+
+#btn {
+  margin-top: 70px;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  padding: 100px 40px;
+  border-radius: 50%;
+  border: 5px solid black;
+  background: green;
+  cursor: pointer;
+}
+
+.fun {
+  /* CSS generated from https://uigradients.com */
+  
+  background: #fc4a1a;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #f7b733, #fc4a1a);  
+  
+  /* Chrome 10-25, Safari 5.1-6 */
+  
+  background: linear-gradient(to left, #f7b733, #fc4a1a); 
+  
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+
+
+
